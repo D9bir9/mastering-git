@@ -1,4 +1,5 @@
-## Heyoo everyone, welcome to my git guide!
+## Welcome to Git
 
 - Yo, Johnny here!
-- I am adding this from feature-branch
+- This is comming from `dev-dabira`
+- I am adding this from `feature-branch`
