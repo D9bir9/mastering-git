@@ -1,3 +1,3 @@
 ## Hello, git
 
-- I am add this from feature-branch
+- I am adding this from feature-branch
